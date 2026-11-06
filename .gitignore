@@ -1,0 +1,20 @@
+# Java e Eclipse
+*.class
+**/bin/
+**/target/
+
+# Arquivos temporarios
+*.log
+*.tmp
+*.bak
+
+# Credenciais
+.env
+.env.*
+!.env.example
+*.launch
+*.key
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
